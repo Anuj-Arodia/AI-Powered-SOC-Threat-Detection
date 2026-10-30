@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+*.joblib
+data/security_logs.csv
